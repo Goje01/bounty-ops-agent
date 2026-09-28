@@ -44,7 +44,6 @@ Gibwork's own tooling is transactional — one resource at a time. This project 
 | `npm run watchdog` | Full health/expiry/change-detection report across your bounties |
 | `npm run contributor-intel` | Reputation profiles for everyone who's submitted to your bounties |
 | `npm run chat` | Terminal chat with the Guide Agent (Gemini-powered) |
-| `npm run mcp` | Same Guide Agent, exposed over MCP for Claude Desktop / Cursor |
 | `npm run approve` `-- <taskId>` | Interactive approve/reject/pay flow with real quotes and explicit confirmation |
 
 ## Architecture
